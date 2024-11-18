@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm pallavi S</h1>
 <h3 align="center">"Recent MCA Graduate | Aspiring Software Developer & Tester | Eager to Kickstart a Career in Tech"</h3>
 
+- 🔭 I’m currently working on **python**
+
+- 🌱 I’m currently learning **python,Full stack web development**
+
+- 🤝 I’m looking for help with **devOps**
+
+- 👨‍💻 All of my projects are available at [https://github.com/pallavi2915](https://github.com/pallavi2915)
+
+- 💬 Ask me about **frameworks**
+
+- 📫 How to reach me **pallavis2915@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/pallavi-s-4415a321b](https://www.linkedin.com/in/pallavi-s-4415a321b)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pallavi s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi s" height="30" width="40" /></a>
